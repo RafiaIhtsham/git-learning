@@ -17,3 +17,7 @@ GitHub is a platform for hosting Git repositories.
 - git push
 - git pull
 - git branch
+
+## git pull
+
+The git pull command retrieves the latest changes from the remote repository and updates the current local branch.
